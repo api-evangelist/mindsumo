@@ -1,7 +1,25 @@
 aid: mindsumo
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mindsumo.png
 name: MindSumo
-description: 'MindSumo is a company surfaced as a portfolio company of gv and added to the API Evangelist
-  network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.'
+description: 'MindSumo was a crowdsourcing and open-innovation platform that connected companies
+  with a community of students and young professionals to solve time-boxed business challenges
+  for monetary prizes, generating ideas, market insight, and hiring leads. A GV (Google
+  Ventures) portfolio company later acquired by MBO Partners, the platform distributed over
+  $1.3M in rewards across 1,300+ challenges in 200+ countries before being permanently shut
+  down after 13 years of operation. MindSumo never published a public developer API, SDK, or
+  documentation surface; this profile records its identity and the residual public web
+  properties (terms, privacy) that remain live.'
 url: https://raw.githubusercontent.com/api-evangelist/mindsumo/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,12 +27,18 @@ x-backed-by:
 - gv
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: platform-closed
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Consumer
+- Crowdsourcing
+- Open Innovation
+- Challenges
+- Talent
+- Insights
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +48,14 @@ maintainers:
 common:
 - type: Website
   url: http://mindsumo.com
+- type: TermsOfService
+  url: https://www.mindsumo.com/terms_of_use
+- type: PrivacyPolicy
+  url: https://www.mindsumo.com/privacy_policy
+- type: DomainSecurity
+  url: security/mindsumo-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1

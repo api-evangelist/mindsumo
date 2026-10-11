@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "mindsumo",
+    "captured_at": "2026-10-11T191413",
+    "source_url": "https://www.mindsumo.com",
+    "source_type": "fallback-domain",
+    "file": "mindsumo-2026-10-11T191413.png",
+    "bytes": 88544,
+    "capture": "playwright-local"
+  }
+]

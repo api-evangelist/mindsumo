@@ -64,6 +64,48 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MindSumo is a company surfaced as a portfolio company of gv and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: gv — http://mindsumo.com
+**Status:** platform-closed
+
+MindSumo was a crowdsourcing and open-innovation platform that connected companies with a community of students and young professionals to solve time-boxed business challenges for monetary prizes, generating ideas, market insight, and hiring leads. A GV (Google Ventures) portfolio company later acquired by MBO Partners, the platform distributed over $1.3M in rewards across 1,300+ challenges in 200+ countries before being permanently shut down after 13 years of operation. MindSumo never published a public developer API, SDK, or documentation surface; this profile records its identity and the residual public web properties (terms, privacy) that remain live.
+
+**Areas:** Company · Consumer · Crowdsourcing · Open Innovation · Challenges · Talent · Insights
+
+## MindSumo on APIs.io (historical record)
+
+Everything profiled for MindSumo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mindsumo/](https://apis.io/providers/mindsumo/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Mindsumo Domain Security](https://apis.io/security/mindsumo/mindsumo-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://mindsumo.com)
+- [Terms of service](https://www.mindsumo.com/terms_of_use)
+- [Privacy policy](https://www.mindsumo.com/privacy_policy)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MindSumo: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mindsumo/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
